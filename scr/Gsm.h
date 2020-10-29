@@ -1,8 +1,8 @@
 /* 
-	* @title			  GSM
-	* @description	Minimalist library for SIM800/900 ... A/B ... etc
-	* @author 			Luiz Carlos Admertides
-	* @date				  29/10/2020 (dd/mm/yyyy) 08:00
+* @title	GSM
+* @description	Minimalist library for SIM800/900 ... A/B ... etc
+* @author 	Luiz Carlos Admertides <luiz@a2tec.com.br>
+* @date		29/10/2020 (dd/mm/yyyy) 08:00
 */
 
 #ifndef Gsm_h
