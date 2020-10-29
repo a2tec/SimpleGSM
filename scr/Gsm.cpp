@@ -1,12 +1,15 @@
-/* 
-	* @title			  GSM
-	* @description	Minimalist library for SIM800/900 ... A/B ... etc
-	* @author 			Luiz Carlos Admertides
-	* @date				  29/10/2020 (dd/mm/yyyy) 08:00
+/**
+* Arduino - Gsm driver
+* 
+* GSM.cpp
+* 
+* implementation of the SIM's modem.
+* 
+* @author Luiz Carlos Admertides <luiz@a2tec.com.br>
 */
 
 #include "Arduino.h"
-#include "GSM.h"
+#include "Gsm.h"
 
 /* PUBLIC FUNCTIONS */
 
